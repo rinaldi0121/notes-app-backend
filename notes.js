@@ -1,0 +1,2 @@
+notes = [],
+module.exports = notes;
