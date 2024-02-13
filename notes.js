@@ -1,2 +1,0 @@
-notes = [],
-module.exports = notes;
